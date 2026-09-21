@@ -1,0 +1,6 @@
+LIGNE 1 : En-tete du document
+LIGNE 2 : Ligne neutre du haut
+LIGNE 3 : Ligne neutre
+LIGNE 4 : Ligne neutre
+LIGNE 5 : Ligne neutre
+LIGNE 6 : Ligne neutre du bas
