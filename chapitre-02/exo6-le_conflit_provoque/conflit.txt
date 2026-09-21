@@ -1,1 +1,1 @@
-﻿Modification par le clone B : Version Bob
+﻿Version reconciliee : Fusion de Alice et Bob
