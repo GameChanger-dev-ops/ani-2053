@@ -3,4 +3,4 @@ LIGNE 2 : Ligne neutre du haut
 LIGNE 3 : Ligne neutre
 LIGNE 4 : Ligne neutre
 LIGNE 5 : Ligne neutre
-LIGNE 6 : Ligne neutre du bas MODIFIE PAR BOB (CLONE B)
+LIGNE 6 : Ligne neutre du bas NOUVELLE RETOUCHE PAR BOB (CLONE B)
